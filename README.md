@@ -39,7 +39,7 @@ Publish `tfcb-homework01` to GitHub using GitHub Desktop. Make sure to set this 
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
 
-[my link](github.com/yliu234/tfcb-homework01)
+[my link](github.com/yliu234/)
 
 
 ## Problem 4
