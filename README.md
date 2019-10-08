@@ -10,8 +10,6 @@ At the end of this assignment, you will have two public repositories. One reposi
 
 Make a GitHub account and populate your bio by including your research interests, place of work, location, professional webpage (or science-focused twitter account!). Here's an example [github.com/trvrb/](https://github.com/trvrb/).
 
-_Include the link to your GitHub profile here._
-
 [link to my profile](https://github.com/yliu234)
 
 ## Problem 2
@@ -54,8 +52,6 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-_Include the commit URL for your reorganized project here._
-
 [my link](https://github.com/yliu234/tfcb-homework01/commit/fb46b023ad51c77a2c0f7dda4fcb9b106989bcde)
 
 ## Problem 4
@@ -67,8 +63,6 @@ This question assesses your ability to write a README with markdown formatting.
 Create a file called `README.md` and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
 
 Commit this file and publish to your public GitHub repository.
-
-_Include the link to your `README.md` here._
 
 [my link](https://github.com/yliu234/tfcb-homework01/blob/master/myFirstMarkdown.md)
 
@@ -83,7 +77,5 @@ Clean up the file that was originally named `Survey Data.xlsx`. Some points to r
 Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
-
-_Include the link to your `.tsv` file on GitHub here._
 
 [my link](https://github.com/yliu234/tfcb-homework01/blob/master/survey-data_cleaned.tsv)
