@@ -12,6 +12,8 @@ Make a GitHub account and populate your bio by including your research interests
 
 _Include the link to your GitHub profile here._
 
+[link to my profile](https://github.com/yliu234)
+
 ## Problem 2
 
 **10 points**
